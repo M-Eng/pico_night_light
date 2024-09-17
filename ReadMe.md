@@ -19,9 +19,9 @@ Upon first power-up, the light starts in Wi-Fi configuration mode, indicated by 
 ## Screenshots
 
 <div align="center">
-    <img src="./ressources/wifi_setup1.jpg" alt="Screenshot 1" style="border-radius: 4%; width: 30%;">
-    <img src="./ressources/wifi_setup2.jpg" alt="Screenshot 2" style="border-radius: 4%; width: 30%;">
-    <img src="./ressources/config_webpage.jpg" alt="Screenshot 3" style="border-radius: 4%; width: 30%;">
+    <img src="./ressources/wifi_setup1.jpg" alt="Screenshot 1" style="border-radius: 2%; width: 30%;">
+    <img src="./ressources/wifi_setup2.jpg" alt="Screenshot 2" style="border-radius: 2%; width: 30%;">
+    <img src="./ressources/config_webpage.jpg" alt="Screenshot 3" style="border-radius: 2%; width: 30%;">
 </div>
 
 ## Features
